@@ -1,0 +1,75 @@
+original / Print(false):
+One, two, or three?
+1. one
+2. two
+3. three
+original / Print(true):
+One, two, or three?
+1. one
+2. two
+3. three (correct)
+
+copy / Print(false):
+One, two, or three?
+1. one
+2. two
+3. three
+copy / Print(true):
+One, two, or three?
+1. one
+2. two
+3. three (correct)
+
+modified copy / Print(false):
+One, two, or three?
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10
+modified copy / Print(true):
+One, two, or three?
+1. 1
+2. 2 (correct)
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10
+
+original / Print(false):
+One, two, or three?
+1. one
+2. two
+3. three
+original / Print(true):
+One, two, or three?
+1. one
+2. two
+3. three (correct)
+
+copy using assignment / Print(true):
+One, two, or three?
+1. one
+2. two
+3. three (correct)
+
+modified assignment / Print(true):
+One, two, or three?
+1. 1
+2. 2 (correct)
+3. 3
+4. 4
+original / Print(true):
+One, two, or three?
+1. one
+2. two
+3. three (correct)
